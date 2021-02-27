@@ -5,6 +5,10 @@ Exercise material and model answers for the CSC course "Python in High Performan
 This master branch contains always the material for latest course, past
 courses are stored in tags.
 
+Online version of the course is run regularly in [FutureLearn](https://www.futurelearn.com/courses/python-in-hpc). 
+
+Articles and videos of the course are also available in a simple form in this [site](docs/mooc/index.md).
+
 ## Exercises
 
 [General instructions](exercise-instructions.md)
@@ -42,6 +46,8 @@ courses are stored in tags.
 ### Optimising with Cython
 
  - [Creating simple extension](cython/simple-extension)
+ - [Using static typing](cython/static-typing)
+ - [Using C-functions](cython/c-functions)
  - [Optimising heat equation](cython/heat-equation)
 
 ### Interfacing with libraries
